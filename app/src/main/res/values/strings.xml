@@ -1,8 +1,8 @@
 <resources>
     <string name="app_name">Fragmentos en Kotlin</string>
     <string name="title_home">Home</string>
-    <string name="title_dashboard">Dashboard</string>
-    <string name="title_notifications">Notifications</string>
+    <string name="title_dashboard">Register</string>
+    <string name="title_notifications">Music</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="valtituloprincipal">Fragmentos en Android</string>
