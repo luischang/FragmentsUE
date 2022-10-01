@@ -11,4 +11,15 @@
     <string name="valrbtother">Other</string>
     <string name="valchklicense">License</string>
     <string name="valchkcar">Have a car?</string>
+    <string name="valbtnsave">SAVE</string>
+
+    <string-array name="country_array">
+        <item>Peru</item>
+        <item>Venezuela</item>
+        <item>Colombia</item>
+        <item>Chile</item>
+        <item>Ecuador</item>
+        <item>Brazil</item>
+        <item>Uruguay</item>
+    </string-array>
 </resources>
