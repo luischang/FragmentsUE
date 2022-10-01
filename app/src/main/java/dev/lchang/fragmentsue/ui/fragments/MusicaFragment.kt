@@ -19,7 +19,7 @@ class MusicaFragment : Fragment() {
         val view: View =  inflater.inflate(R.layout.fragment_musica, container, false)
         val rvMusica: RecyclerView = view.findViewById(R.id.rvMusica)
         rvMusica.layoutManager = LinearLayoutManager(requireContext())
-        rvMusica.adapter = SongAdapter(listSongLP())
+        //(rvMusica.adapter = SongAdapter(listSongLP())
         return view
     }
 
@@ -33,6 +33,11 @@ class MusicaFragment : Fragment() {
         lstSong.add(Song(5,R.drawable.castleofglass,"Castle of Glass","Living Thins","5,000","3:47"))
 
         // Holaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+        //asdasdasdasdasd
+        //asdasdasdasdasd
+
+
+
         return lstSong
     }
 
